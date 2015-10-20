@@ -1,15 +1,28 @@
 ---
-title: "PairAssignment 02"
-author: "Bj�rn Boening"
-date: "7. Oktober 2015"
+title: "PairAssignment 02: Research Proposal"
+authors: "Björn Boening, Laurence Hendry, Cody Koebnick"
+date: "20. Oktober 2015"
 output: ioslides_presentation
 ---
 
-## R Markdown
+## Introduction: Research Question
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+My topic is about global anti-piracy measures. Thereof, my broad research question is: What is the influence of predictive models on piracy?
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+A yet provisionally, but more specific research question is: Do predictive models have a 
+greater impact on anti-piracy measures when a hot spot for piracy can be identified (1), or do 
+predictive models impact naval forces deployment (2)?
+
+Piracy as an act of robbery or criminal violence against vessels is the key concept of my 
+research project. The United Nations’ International Law Commission has described piracy 
+not only happening at High Sea, but also in the air. My project focuses on maritime piracy, 
+and thus only takes into account vessels on water. The International Chamber of 
+Commerce’s International Maritime Bureau (IMB) has defined in 1992 piracy as “the act of 
+boarding any vessel with an intent to commit theft or any other crime, and with an intent or 
+capacity to use force in furtherance of that act”. The United Nations Convention on the Law 
+of the Sea (1982) has defined piracy as “any illegal acts of violence, detention, or any act of 
+depredation’ committed for private ends, in a ship-to-ship conflict that occurs in the high 
+seas.”
 
 ## Slide with Bullets
 
