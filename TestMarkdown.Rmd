@@ -5,6 +5,7 @@ date: "20. Oktober 2015"
 output: ioslides_presentation
 ---
 
+## 1:A 
 ## Introduction: Research Question
 
 My topic is about global anti-piracy measures. Thereof, my broad research question is: What is the influence of predictive models on piracy?
@@ -23,6 +24,15 @@ capacity to use force in furtherance of that act”. The United Nations Conventi
 of the Sea (1982) has defined piracy as “any illegal acts of violence, detention, or any act of 
 depredation’ committed for private ends, in a ship-to-ship conflict that occurs in the high 
 seas.”
+
+## 1:B
+## Relevance of topic
+
+The global shipping routes are highly important for trading. Even if piracy attacks so far were 
+unable to stop global trade, they are a (potential) threat not only for the shipping crew but as 
+well can bear high costs in case of ransom notes. The (cost intensive) deployment of 
+international naval forces in Somalia show how serious the threat is for some countries.
+
 
 ## Slide with Bullets
 
